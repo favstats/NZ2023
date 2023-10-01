@@ -1,6 +1,0 @@
-aus5.mozilla.org	0	19629	1727528364803,1,0
-contile.services.mozilla.com	0	19629	1727528395301,1,0
-location.services.mozilla.com	0	19629	1727528334830,1,1
-ogs.google.com^partitionKey=%28https%2Cgoogle.com%29	0	19629	1727530760965,1,0
-spocs.getpocket.com	0	19629	1759064395483,1,0
-scone-pa.clients6.google.com^partitionKey=%28https%2Cgoogle.com%29	0	19629	1706879185663,1,1
