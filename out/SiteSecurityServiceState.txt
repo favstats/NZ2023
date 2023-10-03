@@ -1,0 +1,4 @@
+contile.services.mozilla.com	0	19633	1727839098332,1,0
+location.services.mozilla.com	0	19633	1727839098160,1,1
+spocs.getpocket.com	0	19633	1759375098375,1,0
+www.facebook.com^partitionKey=%28https%2Cfacebook.com%29	0	19633	1711855098992,1,0
