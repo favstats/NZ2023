@@ -33,6 +33,10 @@ sets <- jsonlite::fromJSON("settings.json")
 conda_install(packages = "xvfbwrapper", pip = T)
 
 print("installed xvfbwrapper")
+system("pip install --only-binary :all: greenlet")
+system("pip install greenlet --no-cache-dir")
+conda_install(packages = "greenlet", pip = T)
+
 conda_install(packages = "playwright", pip = T)
 
 print("installed playwright")
